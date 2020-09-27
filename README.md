@@ -4,8 +4,8 @@
   - Analyze the trend of success and failures of kickstarter projects based on when they are launch and what range of goals are more likely to succeed.
 
 ### Purpose
-  - The purpose of this analysis is to determine which period of time for projects launched are more likely to reach their goals.
-  - Additionally using analysis to determine if the a set goal amount affects if the project will succeed or not.
+  - Determine which period of time for projects launched are more likely to reach their goals.
+  - Determine if the goals set affects the odds of success or failure on kickstarter.
 
 ## Analysis and Challenges
 
