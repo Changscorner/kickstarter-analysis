@@ -10,7 +10,7 @@
 ## Analysis and Challenges
 
 ### Outcomes Based on Launch Dates
-  - First I took this datasheet to begin my analysis. [Kickstarter Date]()
+  - First I took this datasheet to begin my analysis. [Kickstarter Date](Kickstarter_Challenge.xlsx)
   - To begin the analysis of outcomes based on launch dates I first had to segment out from categories into subcategories using the delimiter function under the "Convert Text to Columns Wizard"
   - After segmenting out this subcategories I was than able to create a pivot table with the fields being filled out as such:
     1.) Outcomes goes under Columns and Values
